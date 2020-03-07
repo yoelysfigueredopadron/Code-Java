@@ -1,7 +1,7 @@
 
 public class Persona {
-    private int idPersona;//NoStatic se asocian con un objrto(instacia)
-    private String nombre;//NoStatic se asocian con un objrto(instacia)
+    private int idPersona;//NoStatic se asocian con un objeto(instacia)
+    private String nombre;//NoStatic se asocian con un objeto(instacia)
     private static int contadorPersonas;//Static se asocian con la clase
     
     public Persona(String nombre){

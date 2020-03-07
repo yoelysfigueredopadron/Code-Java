@@ -2,7 +2,7 @@
 public class PalabraNull {
 
     public static void main(String[] args) {
-        Persona persona1 = new Persona("Juan");
+        Persona persona1 = new Persona("Yoelys");
         System.out.println("persona1: " + persona1.obtenerNombre());
         
         Persona persona2 = persona1;

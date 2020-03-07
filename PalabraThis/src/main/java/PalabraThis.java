@@ -2,7 +2,7 @@
 public class PalabraThis {
 
     public static void main(String[] args) {
-        Persona persona = new Persona("Juan");
+        Persona persona = new Persona("Yoelys");
     }
 }
 

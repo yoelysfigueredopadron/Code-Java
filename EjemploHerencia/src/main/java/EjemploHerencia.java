@@ -12,7 +12,7 @@ public class EjemploHerencia {
         System.out.println(empleado1);
 
         Cliente cliente1 = new Cliente(new Date(), true);
-        cliente1.setNombre("Karla");
+        cliente1.setNombre("Meli");
         System.out.println(cliente1);
     }
 }
